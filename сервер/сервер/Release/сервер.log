@@ -1,0 +1,24 @@
+﻿  сервер.cpp
+C:\Users\Varvara\source\repos\сервер\сервер\Header.h(231,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(51,7): warning C4101: t: неиспользованная локальная переменная
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(89,71): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(90,1): warning C5043: "Enter::check": спецификация исключения не соответствует предыдущему объявлению
+C:\Users\Varvara\source\repos\сервер\сервер\Header.h(44): message : см. объявление "Enter::check"
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(94,7): warning C4101: m: неиспользованная локальная переменная
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(95,7): warning C4101: res: неиспользованная локальная переменная
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(165,7): warning C4101: prov: неиспользованная локальная переменная
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(150,7): warning C4101: string1: неиспользованная локальная переменная
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(163,8): warning C4101: f: неиспользованная локальная переменная
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(161,6): warning C4101: q: неиспользованная локальная переменная
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(159,7): warning C4101: filename: неиспользованная локальная переменная
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(162,7): warning C4101: qq: неиспользованная локальная переменная
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(151,6): warning C4101: x: неиспользованная локальная переменная
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(308,16): warning C4101: c: неиспользованная локальная переменная
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(368,16): warning C4101: c: неиспользованная локальная переменная
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(440,15): warning C4101: c: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Varvara\source\repos\сервер\сервер\сервер.cpp(30): warning C4715: Exception::show: значение возвращается не при всех путях выполнения
+  All 271 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  сервер.vcxproj -> C:\Users\Varvara\source\repos\сервер\Release\сервер.exe

@@ -1,0 +1,5 @@
+﻿  клиент.cpp
+C:\Users\Varvara\Desktop\клиент\клиент\Header.h(250,12): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Varvara\Desktop\клиент\клиент\клиент.cpp(74,8): warning C4101: name: неиспользованная локальная переменная
+C:\Users\Varvara\Desktop\клиент\клиент\клиент.cpp(73,8): warning C4101: buf1: неиспользованная локальная переменная
+  клиент.vcxproj -> C:\Users\Varvara\Desktop\клиент\Debug\клиент.exe

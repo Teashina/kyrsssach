@@ -1,0 +1,8 @@
+﻿  клиент.cpp
+C:\Users\Varvara\source\repos\клиент\клиент\клиент.cpp(74,8): warning C4101: name: неиспользованная локальная переменная
+C:\Users\Varvara\source\repos\клиент\клиент\клиент.cpp(73,8): warning C4101: buf1: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 71 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  клиент.vcxproj -> C:\Users\Varvara\source\repos\клиент\Release\клиент.exe
